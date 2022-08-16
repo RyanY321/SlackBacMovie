@@ -5,4 +5,8 @@ cls
 echo.
 echo The Database Has No Current Movies.
 echo.
+echo 1 - Encanto (coming soon)
+echo.
+echo 2 - Forrest Gump (coming soon)
+echo.
 pause
