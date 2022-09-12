@@ -10,4 +10,6 @@ echo 1 - Encanto (coming soon)
 echo.
 echo 2 - Forrest Gump (coming soon)
 echo.
+echo 3 - Holes (coming soon)
+echo.
 pause
